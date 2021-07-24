@@ -1,7 +1,6 @@
 ![banner](https://i.postimg.cc/DZcHXrnF/banner-github-toorusr.png)
 <p align="center">
 <a href="https://max.berlin?ref=gh" target="blank"><img align="center" src="https://i.postimg.cc/y6L0gdg0/badge-pw.png" alt="creaturemax" height="80" /></a>
-<a href="https://dnd.one" target="blank"><img align="center" src="https://i.postimg.cc/TYhgr6gF/bade-iwork.png" alt="jendrall" height="80" /></a>
 <a href="mailto:hello@max.berlin" target="blank"><img align="center" src="https://i.postimg.cc/tJv6LSQB/badge-reachout.png" alt="@maxberlin" height="80" /></a>
 </p>
 
