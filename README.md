@@ -3,6 +3,24 @@
 <a href="mailto:hello@max.berlin" target="blank"><img align="center" src="https://i.postimg.cc/tJv6LSQB/badge-reachout.png" alt="@maxberlin" height="80" /></a>
 </p>
 
+Welcome to my small code corner. Thank you for visiting.
+
+I am a software engineer, turned software manager, turned business entrepeneur, turned engineering entrepreneur.
+
+Unfortunately almost all code I have written or am writing is private. You'll only find some pretty hacky pre-LLM code I wrote 5-10 years ago in this account.
+
+Feel free to chat with me via email to know what I am actually doing.
+
+I write high performing code in:
+
+- Python
+- Rust
+- JavaScript
+
+To
+- Aggregate and work with data at scale
+- Solve challenges in M&A and Sales
+
 <!--
 **toorusr/toorusr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-<a href="https://linkedin.com/in/jendrall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jendrall" height="30" width="30" /></a>
-</p>
+[Connect with me on LinkedIn](https://linkedin.com/in/jendral)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=toorusr.toorusr" />
